@@ -11,9 +11,7 @@ Welcome to the C++ Games Collection repository! This repository contains classic
   - [Tic-Tac-Toe](#tic-tac-toe)
 - [Setup and Installation](#setup-and-installation)
 - [How to Play](#how-to-play)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 This repository features the implementation of several popular games in C++. Each game can be played directly from the terminal, and all are designed for single-player interaction against either a computer opponent (in games like Blackjack and Tic-Tac-Toe) or for solo play (like Hangman and Craps).
